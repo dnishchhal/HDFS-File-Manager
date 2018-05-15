@@ -7,6 +7,7 @@ This is a HDFS web based file manager using python-cgi scripting
 * Hadoop v2
 * Python 2.7
 * Enabled Httpd and Cgi
+* Run Using hdfs.py
 
 ## Enjoy your HDFS in an entire new way :fire: :fire:
 
